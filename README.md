@@ -2,8 +2,6 @@
 
 ### Project Details
 
-**Role:** Data Analyst • Machine Learning Student
-**Domain:** Digital Signal Processing • Audio Classification
 **Tools:** Python, Librosa, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 **Model:** Support Vector Machine with RBF Kernel
 
